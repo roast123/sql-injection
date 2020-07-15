@@ -6,6 +6,7 @@ We need to build PHP environment and target machine by ourselves.
 To build PHP environment,i used phpstudy and payed attention to the php version .the newest version cant usege.
 To build target machine ,i used sqli-labs.
 the following is how to set.
+
       下载 sqli-labs，这是一个印度程序员编写的用来学习 sql 注入的教程。
       下载地址：https://github.com/Audi-1/sqli-labs，下载后务必将 sql 的版本
       调到 5.5 以上，因为这样你的数据库内才会 information_schema 数据库，方便进行
